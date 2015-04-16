@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQL Server - ercserver-socmed@ercserver-socmed.mssql.somee.com" uuid="393db3ab-3154-4083-b199-cad48b9d479a">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>saaccount</user-name>
+    </data-source>
+    <data-source name="SQL Server - socmedserver@socmedserver.mssql.somee.com" uuid="6291d12c-b521-44c0-a595-c8f0d51d8d98">
+      <secret-storage>master_key</secret-storage>
+      <user-name>saaccount</user-name>
+      <schema-pattern>socmedserver.*</schema-pattern>
+      <default-schemas>socmedserver.*</default-schemas>
+    </data-source>
+  </component>
+</project>

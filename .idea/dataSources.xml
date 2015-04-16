@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2460877771">
+    <data-source source="LOCAL" name="SQL Server - ercserver-socmed@ercserver-socmed.mssql.somee.com" uuid="393db3ab-3154-4083-b199-cad48b9d479a">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://ercserver-socmed.mssql.somee.com;databaseName=ercserver-socmed</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="SQL Server - socmedserver@socmedserver.mssql.somee.com" uuid="6291d12c-b521-44c0-a595-c8f0d51d8d98">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://socmedserver.mssql.somee.com;databaseName=socmedserver</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
